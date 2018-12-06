@@ -1,5 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hi gowda
+=======
+public Class varun{
+
+public static void main(Strings[] args)
+
+{
+
+
+}}
+>>>>>>> ffce31c2b9690d1d13be3d315a3b6cd0d1aa7efd
 =======
 public Class varun{
 
